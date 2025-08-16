@@ -2,7 +2,7 @@
 
 This project implements a scalable and efficient book recommendation system by integrating big data technologies and machine learning models.It leverages Apache Hadoop (HDFS & MapReduce), Apache Spark (PySpark & MLlib), Plotly Dash for visualization, and a Flask-based web application for deployment.
 
-The system supports:
+**The system supports:**
 
 1.Distributed storage and computation for large-scale datasets.
 
@@ -12,7 +12,7 @@ The system supports:
 
 4.Interactive dashboards for insights into user behavior and book trends.
 
-A web-based user interface to deliver personalized book recommendations.
+5.A web-based user interface to deliver personalized book recommendations.
 
 **System Architecture**
 
