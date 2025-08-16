@@ -42,15 +42,15 @@ Features: Ratings, reviews, categories, authors, publishers, summaries, etc.
 
 **Tech Stack**
 
-Big Data: Hadoop, HDFS, MapReduce, Apache Spark (PySpark)
+**Big Data:** Hadoop, HDFS, MapReduce, Apache Spark (PySpark)
 
-Machine Learning: Spark MLlib (ALS, MinHashLSH), Scikit-learn, Pickle (.pkl serialization)
+**Machine Learning:** Spark MLlib (ALS, MinHashLSH), Scikit-learn, Pickle (.pkl serialization)
 
-Visualization: Plotly, Dash
+**Visualization:** Plotly, Dash
 
-Backend: Python (Flask, Pandas, NumPy, Seaborn, Matplotlib)
+**Backend:** Python (Flask, Pandas, NumPy, Seaborn, Matplotlib)
 
-Frontend: HTML, CSS, Jinja2 templates
+**Frontend:** HTML, CSS, Jinja2 templates
 
 **Results**
 
